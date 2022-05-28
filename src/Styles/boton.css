@@ -1,0 +1,22 @@
+button{
+    width: 250px;
+    height: 80px;
+    font-size: 35px;
+    font-family: roboto, sans-serif;
+    font-weight: bold;
+    color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: blueviolet;
+}
+.boton-click{
+    background-color: rgb(3, 124, 3);
+}
+.boton-reiniciar{
+    background-color: blue;
+}
